@@ -13,4 +13,8 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    #import <TSMessage.h>
 #endif
+
+
+#define L(str) NSLocalizedString(str, nil)

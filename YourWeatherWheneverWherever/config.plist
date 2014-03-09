@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>googlePlacesKey</key>
+	<string>AIzaSyDhCutHQjkXdLRw67eAnuDDAqFL0tAvfeQ</string>
+	<key>googlePlacesURL</key>
+	<string>https://maps.googleapis.com/maps/api/place/autocomplete/json</string>
+	<key>worldWeatherKey</key>
+	<string>g39jdd6wfyqwb4gu2a3aa52q</string>
+	<key>worldWeatherURL</key>
+	<string>http://api.worldweatheronline.com/free/v1/weather.ashx</string>
+</dict>
+</plist>
